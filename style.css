@@ -14,6 +14,12 @@ h2{
 p{
     text-align: justify;
 }
+b{
+    font-size: 30px;
+}
+.violet{
+    color: blueviolet;
+}
 .flexible-container{
     display: flex;
     margin-bottom: 50px;
@@ -28,7 +34,8 @@ p{
     text-align: left;
 }
 .half-width img{
-    width: 70%;  
+    width: 50%; 
+    
 }
 .button{
     text-decoration: none;
@@ -68,6 +75,14 @@ p{
 .margin-right{
     margin-right: 70px;
     
+}
+.image-padding-left{
+    padding-left: 200px;
+}
+footer p{
+    color: white;
+    background-color: black;
+    text-align: center;
 }
 
 
