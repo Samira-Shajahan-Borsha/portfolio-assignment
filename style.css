@@ -17,14 +17,18 @@ p{
 .flexible-container{
     display: flex;
     margin-bottom: 50px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 .half-width{
     width: 50%;
-    padding-left: 50px;
+    padding-left: 70px;
+    
+}
+.half-width h2{
+    text-align: left;
 }
 .half-width img{
-    width: 80%;  
+    width: 70%;  
 }
 .button{
     text-decoration: none;
@@ -41,8 +45,8 @@ p{
 .mission-width-fixed{
     width: 50%;
     margin-right: 30px;
-    padding-right: 70px;
-    padding-left: 70px;
+    padding-right: 20px;
+    padding-left: 20px;
     border-radius: 25px;
 }
 .margin-fixed{
@@ -61,3 +65,10 @@ p{
 #color3{
     background-color: rgb(236, 205, 210);
 }
+.margin-right{
+    margin-right: 70px;
+    
+}
+
+
+
